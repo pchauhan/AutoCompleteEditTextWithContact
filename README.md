@@ -1,9 +1,13 @@
 # AutoCompleteEditTextWithContact
 AutoCompleteEditTextWithContact  that shows suggestions automatically while the user is entering characters. The list of suggestions is displayed from which the user can choose an item.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AutoCompleteEditTextWithContact-green.svg?style=true)](https://android-arsenal.com/details/1/2863)
+
 ## Screenshot
 
 ![1](https://github.com/pchauhan/AutoCompleteEditTextWithContact/blob/master/0.png)![2](https://github.com/pchauhan/AutoCompleteEditTextWithContact/blob/master/1.png)
+
+
 
 
 you can download to see example  for more understanding.
